@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS",
+  "description": "One App. One Life. An AI-powered personal operating system for productivity, health, finance, memories, and habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
